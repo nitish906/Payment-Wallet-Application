@@ -50,13 +50,81 @@ Pojo Classes:
 - Exceptions Modules:
 - Controller:
 
-# Entity Modules:
+# ------1.Entity Class Modules:------
 - Login
 - Coustomer
-- CurrentUserSession
 - Wallet
 - BankAccount
 - Transaction
 - Transaction Type
 - Bill Payment
 - BeneficiaryDetails
+
+# ------2. DAO(Repository) Modules------
+- CoustomerDao
+- CurrentUserSessionDao
+- WalletDao
+- BankAccountDao
+- TransactionDao
+- Bill PaymentDao
+- BeneficiaryDetailsDao
+
+# ------3. Service Modules(Class & Interface):-----
+## interface 
+- LoginService
+- CoustomerService
+- WalletService
+- BankAccountService
+- TransactionService
+- Transaction Type Service
+- Bill Payment Service
+- BeneficiaryDetailsService
+
+## Class Modules
+- LoginServiceImpl
+- CoustomerServiceImpl
+- WalletServiceImpl
+- BankAccountServiceImpl
+- TransactionServiceImpl
+- Transaction Type ServiceImpl
+- Bill Payment ServiceImpl
+- BeneficiaryDetailsServiceImpl
+
+# -----4. Exceptions Modules:-----
+- WalletNotFound
+- CustomerException
+- GlobalExceptionHandler
+- BankAccountNotFound
+-
+-
+-
+-
+-
+-
+-
+-
+
+
+
+# ------5.Controller Modules:------
+- LoginController
+- CoustomerController
+- WalletController
+- BankAccountController
+- TransactionController
+- Transaction Type Controller
+- Bill Payment Controller
+- BeneficiaryDetails Controller
+ -----------------
+# ER Diagram
+The following Diagram depicts the flow of our Entity Relation Diagram to simplify the work flow.
+
+# Roles And Responsibilities
+
+
+# Installation & Run
+
+# API Root Endpoint
+
+# Screenshots(Back-end Application UI)
+
