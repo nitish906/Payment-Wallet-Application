@@ -122,9 +122,13 @@ The following Diagram depicts the flow of our Entity Relation Diagram to simplif
 # Roles And Responsibilities
 
 
-# Installation & Run
 
 # API Root Endpoint
+
+ https://localhost:8888/
+ 
+ https://localhost:8888/swagger-ui/#
+
 
 # Screenshots(Back-end Application UI)
 
