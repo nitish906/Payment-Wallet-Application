@@ -1,7 +1,7 @@
 # Payment Wallet Application
-A payment application with CRUD operations and banking logical operations while maintaining the balance and account sections of the customers while providing the transactions.
+- A payment application with CRUD operations and banking logical operations while maintaining the balance and account sections of the customers while providing the transactions.
 
-An developement of RESTful API for an Online Payment Wallet application. This API performs all the fundamental CRUD operations of any Online Wallet Banking platform with user validation at every step.
+- An developement of RESTful API for an Online Payment Wallet application. This API performs all the fundamental CRUD operations of any Online Wallet Banking platform with user validation at every step.
 
 ## Teach Stacks Implemented:
 - Java
