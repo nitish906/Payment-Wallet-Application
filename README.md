@@ -51,3 +51,12 @@ Pojo Classes:
 - Controller:
 
 # Entity Modules:
+- Login
+- Coustomer
+- CurrentUserSession
+- Wallet
+- BankAccount
+- Transaction
+- Transaction Type
+- Bill Payment
+- BeneficiaryDetails
