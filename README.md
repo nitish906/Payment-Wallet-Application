@@ -95,16 +95,6 @@ Pojo Classes:
 - CustomerException
 - GlobalExceptionHandler
 - BankAccountNotFound
--
--
--
--
--
--
--
--
-
-
 
 # ------5.Controller Modules:------
 - LoginController
